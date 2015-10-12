@@ -1,0 +1,63 @@
+#introbg{
+	position: absolute;
+	top: 8vh;
+}
+#intro{
+	position: absolute;
+	color: white;
+	top: 20vh;
+	left: 5vw;
+}
+
+#more{
+	position: absolute;
+	left: 80vw;
+	top: 52vh;
+}
+
+#redcontainer1{
+	position: absolute;
+	width: 98.7vw; 
+	height: 70vh;
+	background-color: #EE4545;
+	left: 0vw;
+	top: 80.5vh;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	line-height: 37.5vh;
+	font-size: 60px;
+}
+
+#picture{
+	position: absolute;
+	left: 200px;
+	top: 50px;
+	border-radius: 99999999999px;
+	width: 15%;
+}
+
+#aboutinfo{
+	position: absolute;
+	width: 55vw;
+	top: 3px;
+	left: 40%;
+	line-height: 2;
+}
+
+#aboutme{
+	position: absolute;
+	font-size: 16px;
+	text-align: left;
+}
+
+#whitecontainer1{
+	position: absolute;
+	width: 100vw;
+	height: 50vh;
+	top: 150.5vh;
+	left: 0vw;
+	background-color:white;
+	font-family: 'Lato', sans-serif;
+
+}
