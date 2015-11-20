@@ -1,6 +1,5 @@
 #introbg{
-	position: absolute;
-	top: 8vh;
+	top: 0px;
 }
 #intro{
 	position: absolute;
@@ -16,9 +15,8 @@
 }
 
 #redcontainer1{
-	position: absolute;
-	width: 98.7vw; 
-	height: 70vh;
+	width: 98.79vw; 
+	height: 100vh;
 	background-color: #EE4545;
 	left: 0vw;
 	top: 80.5vh;
@@ -40,7 +38,7 @@
 #aboutinfo{
 	position: absolute;
 	width: 55vw;
-	top: 3px;
+	top: 88vh;
 	left: 40%;
 	line-height: 2;
 }
@@ -51,13 +49,26 @@
 	text-align: left;
 }
 
+#mypic{
+	position: relative;
+}
+
+#Resume{
+position: relative;
+top: 8vh;
+}
+
 #whitecontainer1{
 	position: absolute;
-	width: 100vw;
+	width: 98.79vw;
 	height: 50vh;
-	top: 150.5vh;
+	top: 160.5vh;
 	left: 0vw;
-	background-color:white;
+	background-color: white;
 	font-family: 'Lato', sans-serif;
 
+}
+
+#project{
+	text-align: center;
 }
